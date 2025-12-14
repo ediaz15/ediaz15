@@ -1,18 +1,5 @@
 ## Hi there 👋
 
-<!--
-**ediaz15/ediaz15** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...# 💫 About Me:
-🔭 I’m currently working on an AI RAG model learning based project<br>🤝 I’m looking for help with AI/ML fine tuning, Vector Databases, and MCP<br>🌱 I’m currently learning AI RAG model systems<br>
-
-
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/ed-canchola) 
 
