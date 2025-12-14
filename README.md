@@ -1,4 +1,6 @@
-## Hi there 👋
+# 💫 About Me:
+🔭 I’m currently working on an AI RAG model learning based project<br>🤝 I’m looking for help with AI/ML fine tuning, Vector Databases, and MCP<br>🌱 I’m currently learning AI RAG model systems<br>
+
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/ed-canchola) 
@@ -14,7 +16,3 @@
 [![](https://visitcount.itsvg.in/api?id=ediaz15&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
